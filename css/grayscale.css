@@ -188,11 +188,11 @@ a:focus {
     font-size: 10px;
     font-family: "Arial Black";
     color: #fff;
-    background: url(../img/night-sky.jpg) no-repeat bottom center scroll;
+    background: url(../img/night-back.jpg) no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
-    background-size: cover;
+    background-size: 1200px 1200px;
     -o-background-size: cover;
 }
 
